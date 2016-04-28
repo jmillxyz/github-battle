@@ -1,0 +1,8 @@
+# other JS libs
+node_modules/
+
+# Transpiled/minimized JS
+dist/
+
+# Mac fun
+.DS_Store
